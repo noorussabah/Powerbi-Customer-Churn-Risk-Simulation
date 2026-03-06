@@ -205,10 +205,4 @@ Data Visualization
 Business Intelligence
 
 
----
-
-# Dataset
-
-Telco Customer Churn Dataset  
-https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn
 

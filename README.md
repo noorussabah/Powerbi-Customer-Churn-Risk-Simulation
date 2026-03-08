@@ -4,6 +4,8 @@ An interactive **Power BI dashboard** designed to analyze customer churn, quanti
 
 Using a real telecom dataset, the dashboard goes beyond descriptive reporting to provide **decision-support analytics**. It identifies where churn risk exists, measures how much revenue is exposed, and models how improvements in retention could recover both revenue and customer lifetime value.
 
+Live Dashboard: [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTY3N2EyYzgtOTAyNy00ZTlkLWFjNjEtZTMxNzE5MWQ3MTY0IiwidCI6ImEzYzdkMmJmLWY3MDgtNDcxMi04ZjBkLTBhZTE0MmEzNjJiNyIsImMiOjl9)
+
 Dataset:  
 https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn
 
